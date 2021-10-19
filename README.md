@@ -1,4 +1,4 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/self-sg/beneficiary-pwa)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/self-sg/beneficiary-pwa-express)
 
 # beneficiary-pwa
 
@@ -6,7 +6,7 @@ A simple [Progressive Web App](https://web.dev/progressive-web-apps/) (PWA) usin
 
 ## Quick start
 
-Click [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/self-sg/beneficiary-pwa) and start coding.
+Click [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/self-sg/beneficiary-pwa-express) and start coding.
 
 ## Slow start
 
